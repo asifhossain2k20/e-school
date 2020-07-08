@@ -14,6 +14,9 @@ top: 45px;
     top:"15px";
    
 }
+.sign-in-button:hover{
+    background-color: rgb(107, 218, 107);
+}
 .get-start-button{
     background-color: #21B573;
     width: 153px;
@@ -22,21 +25,25 @@ top: 45px;
     border: none;
     color: #F0FFF0;
 }
+.get-start-button:hover{
+    background-color: rgb(107, 218, 107);
+}
 .text-color{
     color: #21B573 ;
 }
-.p-text-color{
+p{
     color: gray;
 }
 .nav-decoration{
     margin-top: 30px;
+    font-size: bold;
 }
 .after-nav-img{
     height: 400px;
     width: 450px;
 }
 h5{
-    color: orange;
+    color: #FD511A;
 }
 .row{
     margin-top: 30px;
@@ -46,4 +53,87 @@ h5{
 }
 .header-bg-color{
     background-color: #F0FFF0;
+}
+header{
+    margin-bottom: 40px;
+}
+
+.middle-frist{
+    margin-bottom: 40px;
+}
+.col-md-2 img{
+    height: 65px;
+    width: 50px;
+}
+.col-md-2{
+    padding: 10px 10px;
+    background-color: #F0FFF0 ;
+    margin: 5px;
+    border-radius: 7px;
+   
+}
+.col-md-2:hover{
+    background-color:white;
+}
+.online-course{
+    color: #413960;
+}
+.card-deck{
+    margin-top: 30px;
+}
+.card img{
+    padding: 20px 20px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    color: gray;
+}
+.col-8 img{
+   
+    width: 30px;
+}
+
+.middle-last{
+    margin-top: 35px;
+}
+.footer-icon img{
+    height: 55px;
+    width: 55px;
+}
+.middle-last-p{
+        margin-left: 20px;
+        margin-top: 25px;
+}
+.middle-last img{
+      height: 125px;
+      width: 125px;
+     
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.last-part{
+    margin-top: 90px;
+    color: white;
+    background-color:#282531;
+    height: 300px;
+}
+.last-part p{
+    color: white;
+}
+ul{
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+}
+.col-4, .col-3, .col3 , .col2{
+      margin-top: 60px;
+}
+.last-footer{
+    
+    margin-top: 51px;
+    text-align: center;
 }
