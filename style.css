@@ -1,0 +1,49 @@
+.img-icon{
+position: absolute;
+width: 180px;
+height: 55px;
+top: 45px;
+}
+.sign-in-button{
+    background-color: #21B573;
+    width: 104px;
+    height: 43px;
+    border-radius: 33px;
+    border: none;
+    color: #F0FFF0;
+    top:"15px";
+   
+}
+.get-start-button{
+    background-color: #21B573;
+    width: 153px;
+    height: 43px;
+    border-radius: 33px;
+    border: none;
+    color: #F0FFF0;
+}
+.text-color{
+    color: #21B573 ;
+}
+.p-text-color{
+    color: gray;
+}
+.nav-decoration{
+    margin-top: 30px;
+}
+.after-nav-img{
+    height: 400px;
+    width: 450px;
+}
+h5{
+    color: orange;
+}
+.row{
+    margin-top: 30px;
+}
+.col-md-6{
+    margin-top: 30px;
+}
+.header-bg-color{
+    background-color: #F0FFF0;
+}
